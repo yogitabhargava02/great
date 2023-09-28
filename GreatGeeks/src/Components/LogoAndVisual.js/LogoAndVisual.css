@@ -1,0 +1,239 @@
+.legend-container {
+  width: 1044px;
+  height: 413px;
+  flex-shrink: 0;
+  border-radius: 18px;
+  margin-bottom: 5%;
+}
+.legend-image {
+  width: 1044px;
+  height: 413px;
+  flex-shrink: 0;
+  border-radius: 18px;
+}
+.map-container {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.map-container .map-image {
+  margin-top: 2%;
+  width: 1012px;
+  height: 542px;
+  text-align: center;
+  margin-left: 12%;
+}
+h2 {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: lowercase;
+  text-align: center;
+}
+.world {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: lowercase;
+}
+.faq-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10% 0;
+}
+
+.faq-container,
+h6 {
+  color: #fff;
+  margin-bottom: 30px;
+  font-family: Outfit;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 42px */
+  text-transform: capitalize;
+}
+.faq-container h5 {
+  color: #fff;
+  font-family: Outfit;
+  margin-bottom: 5%;
+  /* margin-left: 3%; */
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.section2 {
+  margin-left: 12%;
+}
+.paraform {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5% 0;
+  margin-left:19%;
+  margin-right: 10%;
+}
+
+.question {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.ans {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 150%; /* 36px */
+  text-transform: lowercase;
+}
+.form-container {
+  width: 405px;
+  height: 551px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #fff;
+  padding: 10%;
+}
+.form-container .rs {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.form-container .save {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.form-container .save-container {
+  height: 23px;
+  width: 263px;
+}
+.discount {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.para2-container {
+  width: 262px;
+  height: 46px;
+}
+.para2 {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%; /* 22.5px */
+  text-transform: capitalize;
+}
+.files {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.icon {
+  color: #0392b2;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  margin-top: 9px;
+  margin-right: 9px;
+}
+.icon-text {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 30px */
+  text-transform: capitalize;
+}
+.bullets {
+  display: flex;
+}
+.included {
+  color: #0392b2;
+  font-family: Outfit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 22.5px */
+  text-transform: capitalize;
+}
+.btn {
+  width: 282px;
+  height: 60px;
+  flex-shrink: 0;
+
+  border-radius: 20px;
+  background: #0392b2;
+
+  color: #fff;
+  font-family: Outfit;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: capitalize;
+  border-color: none;
+  border-style: none;
+}
+hr {
+  width: 1100px;
+  margin-top: -16px;
+}
+
+.icon-down {
+  display: flex;
+  align-items: center;
+  margin-top: 3px;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  margin-left: 24%;
+}
+
+.faqheading{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  padding: 5% 0;
+}
